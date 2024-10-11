@@ -213,6 +213,7 @@ textarea {
      font-weight: 600;
      font-size: 18px;
      position: relative;
+     cursor: pointer;
 }
 
 .container-upload-imagem button::after {
