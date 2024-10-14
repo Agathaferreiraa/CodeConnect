@@ -25,5 +25,5 @@ Durante o desenvolvimento desta página, foram abordados conceitos essenciais de
 - Uso de **async/await** para melhorar a legibilidade do código.
 - Tratamento de erros com **try...catch**.
 - Simulação de eventos assíncronos com **setTimeout()**.
-
+---
 ## Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/%C3%A1gatha-ferreira-de-siqueira-6993912b2/)
