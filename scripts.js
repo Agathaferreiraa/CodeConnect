@@ -59,3 +59,13 @@ listaTags.addEventListener("click", (evento) => {
         listaTags.removeChild(tagQueQueremosRemover)
     }
 })
+
+const tagsDisponiveis = ["Front-end", "Programação", "Data Science", "Full-Stack", "HTML", "CSS", "JavaScript"];
+
+async function verificaTagsDisponiveis(tagTexto) {
+return new Promise ((resolve) => {
+     setTimeout(() => {
+       resolve(tagsDisponiveis.includes(tagTexto)); 
+     }, 1000)
+})
+}
