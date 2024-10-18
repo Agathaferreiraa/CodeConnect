@@ -139,6 +139,7 @@ textarea {
     font-family: var(--font-family);
     font-size: 18px;
     font-weight: 500;
+    cursor: pointer;
 }
 
 .botao-descartar {
