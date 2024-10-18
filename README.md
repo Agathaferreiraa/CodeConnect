@@ -4,6 +4,12 @@
 
 Este projeto foi desenvolvido durante o curso **"JavaScript: Entendendo Promises e Async/Await"** da Alura, com o objetivo de aprofundar conceitos de assincronicidade no JavaScript. A página de upload de arquivos faz parte do sistema **CodeConnect**, onde o usuário pode carregar imagens e descrever projetos, aplicando funcionalidades como **promessas**, **async/await**, **blocos try...catch** e **setTimeout()**.
 
+
+
+![image](https://github.com/user-attachments/assets/60fc095a-4bdb-430f-a403-9a172dffef80)
+
+
+
 ## Funcionalidades ✨
 
 - Carregue as imagens com visualização imediata.
